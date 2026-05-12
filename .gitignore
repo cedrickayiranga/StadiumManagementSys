@@ -1,0 +1,16 @@
+# Backend — ignore compiled output
+Backend/target/
+Backend/*.jar
+Backend/.mvn/
+Backend/.idea/
+Backend/*.iml
+
+# Frontend — ignore dependencies and build output
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.env
+
+# System files
+.DS_Store
+Thumbs.db
+*.log
