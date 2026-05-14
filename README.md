@@ -1,4 +1,4 @@
-# 🏟️ Stadium Management System
+<img width="1488" height="927" alt="Sequence Diagram " src="https://github.com/user-attachments/assets/708d6e84-e805-4704-b5ed-116cce61a37a" /># 🏟️ Stadium Management System
 
 > Full-stack web application for managing stadium events, ticket bookings, and attendee records at **Amahoro National Stadium, Kigali, Rwanda**.
 
@@ -15,6 +15,7 @@
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
+  - [Diagrams](#Diagrams)
   - [Prerequisites](#prerequisites)
   - [Run with Docker](#run-with-docker)
   - [Run Locally (Without Docker)](#run-locally-without-docker)
@@ -98,6 +99,14 @@ StadiumManagementSys/
 
 ---
 
+## Diagrams
+<img width="767" height="1389" alt="Use case diagram " src="https://github.com/user-attachments/assets/60d8dd20-0d86-4a64-9354-2a474c2ab5b9" />
+<img width="589" height="1066" alt="Class diagram" src="https://github.com/user-attachments/assets/9dcce2f8-3355-4d9d-aba2-445632ce1e6c" />
+<img width="735" height="1182" alt="Activity Diagram " src="https://github.com/user-attachments/assets/53686377-6754-4bb7-af57-bf356d1e07ae" />
+
+<img width="1488" height="927" alt="Sequence Diagram " src="https://github.com/user-attachments/assets/5685ca28-670e-4b01-8783-04b3c781c6cb" />
+
+<img width="1326" height="1034" alt="Component diagram " src="https://github.com/user-attachments/assets/5d052c09-c775-4687-bbd6-488cccc41223" />
 ## 🚀 Getting Started
 
 ### Prerequisites
