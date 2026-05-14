@@ -1,4 +1,4 @@
-<img width="1488" height="927" alt="Sequence Diagram " src="https://github.com/user-attachments/assets/708d6e84-e805-4704-b5ed-116cce61a37a" /># 🏟️ Stadium Management System
+🏟️ Stadium Management System
 
 > Full-stack web application for managing stadium events, ticket bookings, and attendee records at **Amahoro National Stadium, Kigali, Rwanda**.
 
